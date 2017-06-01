@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KotlinAndroidBot</string>
+
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+
+    <string name="home">Home</string>
+    <string name="mine">Mine</string>
+    <string name="dig">Dig</string>
+
+    <string name="cancel">Cancel</string>
+
+</resources>
